@@ -1,0 +1,11 @@
+<Person>
+    <firstName> I'm  from XML</firstName>
+    <lastName> Java </lastName>
+    <phone> 0899392</phone>>
+    <address>
+        <address>
+            <streetName> Duy Tan </streetName>
+            <streetName> Ha Noi</streetName>
+        </address>
+    </address>
+</Person>

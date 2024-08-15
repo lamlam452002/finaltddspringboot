@@ -1,0 +1,18 @@
+[{
+  "firstName": "Khanh",
+  "lastName": "Tran",
+  "phone": "0969642",
+  "address": [
+    {"streetName": "ThaiHa", "city": "HaNoi"},
+    {"streetName": "DuyTan", "city": "HaNoi"}
+  ]
+},
+{
+"firstName": "Tung",
+"lastName": "Nguyen",
+"phone": "0969642",
+"address": [
+{"streetName": "Tung Mau", "city": "HaNoi"},
+{"streetName": "Vo Chi Cong", "city": "HaNoi"}
+]
+}]

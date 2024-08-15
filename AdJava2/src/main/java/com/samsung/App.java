@@ -28,8 +28,12 @@ public class App
         Properties settingProp = new Properties();
         settingProp.load(fileInput);
         String server = settingProp.getProperty("server");
+        String port = settingProp.getProperty("port");
+        String ssl = settingProp.getProperty("ssl");
+        String user = settingProp.getProperty("user");
 
         System.out.println(server);
+
 
     }
 }
